@@ -9,4 +9,4 @@ Objectifs de ces exercices :
 - Adopter une nomenclature rigoureuse dans l'écriture du code et la restitution des exercices sur VSCode
 
 Formation de remise à niveau - dans le cadre d'intégrer le titre professionnel : Concepteur Développeur d'Application
-Auprès d'Elan Formation à Strasbourg
+<br>Ce dernier est préparé auprès d'Elan Formation à Strasbourg
