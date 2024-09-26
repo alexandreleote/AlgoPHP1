@@ -17,17 +17,23 @@
 $age = 10;
 
 // On déclare notre condition lié à l'âge
-if ($age >= 6 && $age <= 7) {
-    $categorie = "Poussin";
-} else if ($age >=8 && $age <= 9) {
-    $categorie = "Pupille";
-} else if ($age >= 10 && $age <= 11) {
-    $categorie = "Minime" ;
-} else if ($age >= 12) {
+// Correction en commençant par l'âge le plus élevé pour enlever une comparaison non nécessaire
+if ($age >=12) {
     $categorie = "Cadet" ;
+} else if ($age >= 10) {
+    $categorie = "Minime" ;
+} else if ($age >= 8) {
+    $categorie = "Pupille" ;
+} else if ($age >= 6) {
+    $categorie = "Poussin" ;
 } else {
     $categorie = "Non gérée" ;
 }
 
 // On affiche le résultat
-echo "L'enfant qui a $age ans appartient à la catégorie « $categorie » <br>";
+// Ajout d'un message spécifique si l'enfant est dans la catégorie "Non gérée"
+if ($categorie == "Non gérée") {
+    echo "Nous ne pouvons pas gérer des enfants de l'âge de $age ans. Merci pour votre compréhension." ;
+} else {
+    echo "L'enfant qui a $age ans appartient à la catégorie « $categorie » <br>";
+}

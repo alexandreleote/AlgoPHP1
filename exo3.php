@@ -9,9 +9,10 @@ Afficher l'ancienne et la nouvelle phrase.</p>
 
 $phrase = "«Notre formation DL commence aujourd'hui »";
 // stock les mots à remplacer pour utiliser st_replace()
-$anciennePhrase = ["aujourd'hui"];
-$nouvellePhrase = ["demain"];
-$newPhrase = str_replace($anciennePhrase, $nouvellePhrase, $phrase);
+$mot = ["aujourd'hui"];
+$mot2 = ["demain"];
+$newPhrase = str_replace($mot, $mot2, $phrase);
 
+// On affiche les deux phrases pour voir les changements
 echo "L'anciennce phrase est $phrase<br>";
 echo "La nouvelle phrase est $newPhrase<br>";
