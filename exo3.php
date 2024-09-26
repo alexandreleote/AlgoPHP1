@@ -9,6 +9,7 @@ Afficher l'ancienne et la nouvelle phrase.</p>
 
 $phrase = "«Notre formation DL commence aujourd'hui »";
 // stock les mots à remplacer pour utiliser st_replace()
+// Correction au niveau du nommage des variables de remplacement
 $mot = ["aujourd'hui"];
 $mot2 = ["demain"];
 $newPhrase = str_replace($mot, $mot2, $phrase);
