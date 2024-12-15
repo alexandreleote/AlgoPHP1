@@ -39,24 +39,24 @@ Outils :
 ## 🚀 Structure du projet
 AlgoPHP1/<br>
 ├── README<br>
-├── exo1.php<br>
-├── exo10.php<br>
-├── exo11.php<br>
+├── exo1.php <br>
+├── exo10.php <br>
+├── exo11.php <br>
 ├── exo12.php<br>
 ├── exo13.php<br>
-├── exo2.php<br>
-├── exo3.php<br> 
-├── exo4.php<br> 
-├── exo5.php<br> 
-├── exo6.php<br> 
-├── exo7.php<br> 
-├── exo8.php<br> 
-└── exo9.php<br> 
+├── exo2.php <br>
+├── exo3.php <br>
+├── exo4.php <br>
+├── exo5.php <br>
+├── exo6.php <br>
+├── exo7.php <br>
+├── exo8.php <br>
+└── exo9.php <br>
 
 ## 📚 Ressources
 Documentation officielle
-- PHP.net
-- W3Schools.com
+- [PHP](https://www.php.net/)
+- [W3Schools](https://www.w3schools.com/)
 - [MDN](https://developer.mozilla.org/fr/)
 
 ## 🏆 Compétences visées
