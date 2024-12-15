@@ -67,6 +67,6 @@ Documentation officielle
 - Analyse de complexité
 - Résolution de problèmes
 ___
-Exercice réalisé dans le cadre de la formation [Développeur Web et Web Mobile](https://elan-formation.fr/formation/19754)
-📅 Date : 24/09/2024 - 26/09/2024
+Exercice réalisé dans le cadre de la formation [Développeur Web et Web Mobile](https://elan-formation.fr/formation/19754)<br>
+📅 Date : 24/09/2024 - 26/09/2024<br>
 ✍️ Auteur : [Alexandre Leote](https://github.com/alexandreleote)
