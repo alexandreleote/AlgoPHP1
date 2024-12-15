@@ -37,21 +37,21 @@ Outils :
 - Polymorphisme
    
 ## 🚀 Structure du projet
-AlgoPHP1/
-├── README
-├── exo1.php 
-├── exo10.php 
-├── exo11.php 
-├── exo12.php
-├── exo13.php
-├── exo2.php 
-├── exo3.php 
-├── exo4.php 
-├── exo5.php 
-├── exo6.php 
-├── exo7.php 
-├── exo8.php 
-└── exo9.php 
+AlgoPHP1/<br>
+├── README<br>
+├── exo1.php<br>
+├── exo10.php<br>
+├── exo11.php<br>
+├── exo12.php<br>
+├── exo13.php<br>
+├── exo2.php<br>
+├── exo3.php<br> 
+├── exo4.php<br> 
+├── exo5.php<br> 
+├── exo6.php<br> 
+├── exo7.php<br> 
+├── exo8.php<br> 
+└── exo9.php<br> 
 
 ## 📚 Ressources
 Documentation officielle
