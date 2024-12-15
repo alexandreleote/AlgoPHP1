@@ -9,16 +9,6 @@ Maîtriser les principes des algorithmes : variables, chaînes de caractères, c
 
 Exploiter des ressources en ligne de référence telles que : PHP.net, Developpez.com ou W3Schools.com
 
-## 📝 Consignes
-### Fonctionnalités attendues :
-
-- Critères de performance
-- Code structuré selon le pattern MVC
-- Validation des données côté client ET serveur
-- Interface responsive (mobile first)
-- Sécurisation des requêtes SQL (requêtes préparées)
-- Code commenté et indenté
-
 ## 🔧 Technologies utilisées
 Langages :
 - PHP 
